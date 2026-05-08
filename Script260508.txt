@@ -1,0 +1,2 @@
+Script on 260508
+sudo apt install sra-tookit
