@@ -1,2 +1,5 @@
 Script on 260508
-sudo apt install sra-tookit
+
+#do not work #sudo apt install sra-toolkit
+conda install -c bioconda sra-tools
+
